@@ -9,3 +9,12 @@
     font-size: 40px;
     font-weight: 700;
 }
+
+@media screen and (max-width: 576px) {
+    .custom-heading h1{
+        font-size: 20px;
+    }
+    .custom-heading p{
+        font-size: 16px;
+    }
+}

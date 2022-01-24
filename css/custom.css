@@ -10,6 +10,8 @@
     font-weight: 700;
 }
 
+/*---Media Query----- */
+
 @media screen and (max-width: 576px) {
     .custom-heading h1{
         font-size: 20px;
